@@ -1,4 +1,0 @@
-hello
-123
-abcd
-lcx
