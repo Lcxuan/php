@@ -1,0 +1,1 @@
+a:4:{s:7:"db_host";s:8:"localost";s:7:"db_user";s:4:"root";s:7:"db_pass";s:0:"";s:7:"db_name";s:8:"userbiao";}
